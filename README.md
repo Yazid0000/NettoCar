@@ -47,7 +47,7 @@ NettoCar est une application de bureau développée en **Visual Basic 2010** ave
 ![Login](screenshots/login.png)
 
 ### Gestion des Lavages
-![Login](screenshots/login.png)
+![Lavage](screenshots/lavage.png)
 
 ### Journal de Prévention des Pertes
 ![Journal](screenshots/préventiondeperte.png)
